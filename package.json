@@ -1,0 +1,22 @@
+{
+  "name": "awesome",
+  "version": "1.0.0",
+  "description": "All about JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preethamntp/awesome-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preethamntp/awesome-js/issues"
+  },
+  "homepage": "https://github.com/preethamntp/awesome-js#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
